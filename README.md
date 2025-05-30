@@ -9,6 +9,11 @@
 - Currently exploring data analysis & advanced backend features (real-time tracking, payment integration)  
 - Actively freelancing on Upwork and working on open-source projects  
 
+🎉 **Fun Facts**  
+🥊 I'm a competitive boxer with weekly training and gym routines   
+🎥 Love anime, tech podcasts, and developer YouTube content  
+🤝 Prefer teamwork, collaboration, and building with purpose  
+
 📌 **Tech Stack**:  
 - **Languages & Backend**: Python, Django, Django REST Framework, PostgreSQL, MySQL  
 - **Frontend**: HTML, CSS, JavaScript (basic), React, React Native  
@@ -45,6 +50,7 @@ A comprehensive web application for managing educational institution operations.
 - Student & teacher management  
 - Schedules, grades, and attendance tracking  
 - Centralized academic platform  
+**Frontend**: React & React Native  
 
 ---
 
@@ -85,4 +91,5 @@ A comprehensive web application for managing educational institution operations.
 [![](https://visitcount.itsvg.in/api?id=HenonTire&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
